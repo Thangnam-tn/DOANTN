@@ -1,2 +1,2 @@
-# DOANTN
-đồ án tốt nghiệp
+# DOANTTAP
+đồ án thực tập
