@@ -1,2 +1,2 @@
 # DOANTN
-đồ án
+đồ án tốt nghiệp
